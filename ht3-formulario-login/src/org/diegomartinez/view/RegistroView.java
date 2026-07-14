@@ -18,7 +18,7 @@ public class RegistroView {
     private ComboBox<Persona> cmbTipoPersona;
     private VBox cajaVertical;
     private Label lblTipoPersona;
-    private final String RUTA_ESTILOS = "/com/diegomartinez/styles/";
+    private final String RUTA_ESTILOS = "/org/diegomartinez/styles/";
 
     private GridPane formulario;
     //ATRIBUTOS PERSONA

@@ -12,7 +12,7 @@ public class VistaPrincipalView {
     private TabPane seccionTabs;
     private Tab tabRegistro;
     private Tab tabResumen;
-    private final String RUTA_ESTILOS = "/com/kennethvelasquez/styles/";
+    private final String RUTA_ESTILOS = "/org/diegomartinez/styles/";
     
     //CONSTRUCTORES
     private VistaPrincipalView (){

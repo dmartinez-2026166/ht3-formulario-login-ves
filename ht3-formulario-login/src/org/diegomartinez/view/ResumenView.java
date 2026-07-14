@@ -14,7 +14,7 @@ public class ResumenView {
     private TableColumn <Persona , String> colNombres;
     private TableColumn <Persona, String> colApellidos;
     private VBox cajaVertical;
-    private final String RUTA_ESTILOS = "/com/diegomartinez/styles/";
+    private final String RUTA_ESTILOS = "/org/diegomartinez/styles/";
     private Button btnVerInformacion;
     
     private ResumenView(){
