@@ -1,12 +1,12 @@
 package org.diegomartinez.controller;
 
-import com.diegomartinez.errores.ErroresPersonalizados;
-import com.diegomartinez.view.RegistroView;
+import org.diegomartinez.errores.ErroresPersonalizados;
+import org.diegomartinez.view.RegistroView;
 import java.util.ArrayList;
-import com.diegomartinez.model.Persona;
-import com.diegomartinez.model.Estudiante;
-import com.diegomartinez.model.Maestro;
-import com.diegomartinez.view.ResumenView;
+import org.diegomartinez.model.Persona;
+import org.diegomartinez.model.Estudiante;
+import org.diegomartinez.model.Maestro;
+import org.diegomartinez.view.ResumenView;
 import javafx.collections.FXCollections;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.Label;
