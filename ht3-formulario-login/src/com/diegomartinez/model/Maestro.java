@@ -1,4 +1,4 @@
-package org.diegomartinez.model;
+package com.diegomartinez.model;
 
 public class Maestro extends Persona {
     private boolean activo;

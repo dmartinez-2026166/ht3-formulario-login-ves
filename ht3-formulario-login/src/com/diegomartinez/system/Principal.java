@@ -1,6 +1,6 @@
-package org.diegomartinez.system;
+package com.diegomartinez.system;
 
-import org.diegomartinez.controller.SceneManagerController;
+import com.diegomartinez.controller.SceneManagerController;
 import javafx.application.Application;
 import javafx.stage.Stage;
 

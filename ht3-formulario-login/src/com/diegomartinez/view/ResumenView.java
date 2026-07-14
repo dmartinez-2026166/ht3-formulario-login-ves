@@ -1,10 +1,10 @@
-package org.diegomartinez.view;
+package com.diegomartinez.view;
 
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TableColumn;
-import org.diegomartinez.model.Persona;
+import com.diegomartinez.model.Persona;
 import javafx.scene.control.Button;
 
 public class ResumenView {

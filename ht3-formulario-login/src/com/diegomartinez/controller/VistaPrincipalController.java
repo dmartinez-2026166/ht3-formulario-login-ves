@@ -1,8 +1,8 @@
-package org.diegomartinez.controller;
+package com.diegomartinez.controller;
 
-import org.diegomartinez.view.RegistroView;
-import org.diegomartinez.view.ResumenView;
-import org.diegomartinez.view.VistaPrincipalView;
+import com.diegomartinez.view.RegistroView;
+import com.diegomartinez.view.ResumenView;
+import com.diegomartinez.view.VistaPrincipalView;
 
 public class VistaPrincipalController {
     private final VistaPrincipalView vistaPrincipalView;

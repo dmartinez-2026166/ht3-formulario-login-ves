@@ -1,4 +1,4 @@
-package org.diegomartinez.errores;
+package com.diegomartinez.errores;
 
 public class ErroresPersonalizados extends Exception {
     public ErroresPersonalizados (String mensajeError) {

@@ -1,7 +1,7 @@
-package org.diegomartinez.controller;
+package com.diegomartinez.controller;
 
-import org.diegomartinez.model.Persona;
-import org.diegomartinez.view.ResumenView;
+import com.diegomartinez.model.Persona;
+import com.diegomartinez.view.ResumenView;
 import java.util.ArrayList;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;

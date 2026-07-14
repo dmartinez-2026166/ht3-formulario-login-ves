@@ -1,4 +1,4 @@
-package org.diegomartinez.model;
+package com.diegomartinez.model;
 
 public class Estudiante extends Persona {
     private String grado;

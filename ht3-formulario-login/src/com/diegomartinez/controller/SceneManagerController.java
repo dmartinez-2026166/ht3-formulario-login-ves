@@ -1,10 +1,10 @@
-package org.diegomartinez.controller;
+package com.diegomartinez.controller;
 
 import javafx.stage.Stage;
 import javafx.scene.layout.Pane;
 import javafx.scene.Scene;
 import javax.swing.JOptionPane;
-import org.diegomartinez.view.VistaPrincipalView;
+import com.diegomartinez.view.VistaPrincipalView;
 
 public class SceneManagerController {
     private static SceneManagerController instanciaSceneManagerController;

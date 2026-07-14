@@ -1,4 +1,4 @@
-package org.diegomartinez.model;
+package com.diegomartinez.model;
 
 public abstract class Persona {
     protected String nombres;

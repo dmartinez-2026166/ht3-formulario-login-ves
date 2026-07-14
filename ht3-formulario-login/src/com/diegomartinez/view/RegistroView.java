@@ -1,9 +1,9 @@
-package org.diegomartinez.view;
+package com.diegomartinez.view;
 
 import javafx.scene.layout.Pane;
 import javafx.scene.control.ComboBox;
 import javafx.scene.layout.VBox;
-import org.diegomartinez.model.Persona;
+import com.diegomartinez.model.Persona;
 import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.Label;
